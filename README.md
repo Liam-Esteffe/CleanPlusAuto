@@ -1,6 +1,6 @@
 # 🚗 CleanPlus Auto
 
-![CleanPlus Auto]([https://www.cleanplus-auto.fr/wp-content/uploads/2021/08/logo-cleanplus.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyHZxPSA-XNV887CtXnVn9InujDoRu-Y73A&s))
+![CleanPlus Auto](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQyHZxPSA-XNV887CtXnVn9InujDoRu-Y73A&s)
 
 ## 🏢 À propos
 
