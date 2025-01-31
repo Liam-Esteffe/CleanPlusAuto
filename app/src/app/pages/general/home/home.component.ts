@@ -81,18 +81,7 @@ export class HomeComponent {
       title: 'NETTOYAGE LUSTRAGE MOISSONNEUSE',
       image: 'moison.jpg',
       routing: 'services/agricole-moissonneuse'
-    },
-    {
-      title: 'RENOVATION TRACTEUR CHASSIS',
-      image: 'chassis.jpg',
-      routing: 'services/agricole-chassis'
-    },
-
-    {
-      title: 'RENOVATION TRACTEUR JANTES',
-      image: 'jantes.jpg',
-      routing: 'services/agricole-jantes'
-    },
+    }
   ]
 }
 
