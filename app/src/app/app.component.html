@@ -1,0 +1,44 @@
+<main>
+  <router-outlet></router-outlet>
+</main>
+
+<!-- Footer -->
+<footer class="bg-black text-white">
+  <!-- Section Hero du Footer -->
+  <section class="py-12 text-center">
+    <div class="max-w-lg mx-auto">
+      <h1 class="text-4xl font-extrabold leading-tight sm:text-6xl lg:text-7xl">
+        <span class="block">Spécialiste</span>
+        <span class="mt-2 bg-clip-text text-transparent bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600">
+          Du Nettoyage <span class="bg-clip-text text-transparent bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600">
+            Automobile
+          </span>
+        </span>
+      </h1>
+    </div>
+  </section>
+
+  <hr class="border-gray-700 mx-8" />
+
+  <!-- Contenu du Footer -->
+  <div class="max-w-screen-xl mx-auto px-6 py-10 sm:flex sm:justify-between sm:items-center">
+    <!-- Logo -->
+    <div class="flex justify-center sm:justify-start">
+      <img class="rounded-full bg-white p-1" src="images2.png" width="50" height="50" alt="Logo CleanPlus" />
+    </div>
+
+    <!-- Menu Footer -->
+    <nav class="mt-6 sm:mt-0">
+      <ul class="flex flex-wrap justify-center sm:justify-start gap-4 text-sm text-gray-400">
+        <li><a routerLink="/home" class="cursor-pointer hover:text-pink-500 transition">Accueil</a></li>
+        <li><a routerLink="/contact" class="cursor-pointer hover:text-pink-500 transition">Contact</a></li>
+        <li><a href="#" class="hover:text-pink-500 transition">À Propos</a></li>
+      </ul>
+    </nav>
+
+    <!-- Mentions légales -->
+    <p class="mt-6 text-center text-sm text-gray-400 sm:mt-0 sm:text-right">
+      © 2024 CleanPlus Auto | Tous droits réservés.
+    </p>
+  </div>
+</footer>
