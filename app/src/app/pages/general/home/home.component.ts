@@ -15,6 +15,12 @@ export class HomeComponent {
 
   constructor() { }
 
+  menuOpen: boolean = false;
+
+  toggleMenu(): void {
+    this.menuOpen = !this.menuOpen;
+  }
+
   public services : Services[] = [
     {
       title: 'NETTOYAGE INTERIEUR VEHICULE',
